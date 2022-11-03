@@ -1,7 +1,10 @@
 # Speech-Synthesizer
- Synthesizes speech from text. 
+For average synthesizer enjoyers.
 
+## Quick start
 1) Install packages:
- pip install SpeechRecognition
- pip install pyttsx3
+```
+pip install SpeechRecognition
+pip install pyttsx3
+```
 2) Run program
