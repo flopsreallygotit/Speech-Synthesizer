@@ -1,5 +1,5 @@
-#Author: flopsreallygotit
-#Python 3
+# Author: flopsreallygotit
+# Python 3
 
 import SpeechRecognition as sr
 import os
